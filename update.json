@@ -1,0 +1,12 @@
+{
+  "minVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "url": "https://github.com/farooq129/gettok-update/releases/latest",
+  "size": "40 MB",
+  "source": "GitHub",
+  "message": "A new version of GetTok is available. Update now to keep downloading.",
+  "notes": [
+    { "icon": "sparkle", "title": "New Download screen", "body": "Preview, pick format and quality" },
+    { "icon": "shield", "title": "Forced updates", "body": "Stay on the latest working version" }
+  ]
+}
