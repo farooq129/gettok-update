@@ -1,12 +1,17 @@
 {
   "minVersion": "1.0.0",
-  "latestVersion": "1.0.0",
-  "url": "https://github.com/farooq129/gettok-update/releases/latest",
+  "latestVersion": "1.0.1",
+  "url": "https://play.google.com/store/apps/details?id=com.gettok.rfapp",
   "size": "40 MB",
-  "source": "GitHub",
+  "source": "Google Play",
   "message": "A new version of GetTok is available. Update now to keep downloading.",
   "notes": [
-    { "icon": "sparkle", "title": "New Download screen", "body": "Preview, pick format and quality" },
-    { "icon": "shield", "title": "Forced updates", "body": "Stay on the latest working version" }
+    { "icon": "lightning", "title": "Better performance", "body": "Stability and speed improvements" },
+    { "icon": "bug", "title": "Minor fixes", "body": "Small bugs squashed" }
+  ],
+  "messageAr": "يتوفر إصدار جديد من GetTok. حدّث الآن لمواصلة التنزيل.",
+  "notesAr": [
+    { "icon": "lightning", "title": "أداء أفضل", "body": "تحسينات في الثبات والسرعة" },
+    { "icon": "bug", "title": "إصلاحات بسيطة", "body": "إصلاح بعض الأخطاء" }
   ]
 }
